@@ -1,0 +1,11 @@
+*{ margin: 0; padding: 0;}
+ul, li,  ol, dl, dt, dd{ list-style: none; display: inline-block;}
+
+
+#navi{ width: 100%; line-height: 2; }
+#navi h1{ float: left; margin: 50px 120px; }
+#navi h1 a{}
+
+#gnb{ float: right; margin: 90px 120px; }
+#gnb li{ padding-right: 60px; font-size: 1.5em; }
+#gnb li a{}
